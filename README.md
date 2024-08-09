@@ -4,7 +4,7 @@
 </picture>
   </p> 
 <p align="center">
-<h1 align="center"/>WaterWall Tunnel</h1>
+<h1 align="center"/>Websocket Tunnel</h1>
 <h6 align="center"> تانل وبسوکت <h6>
 </p>
 
