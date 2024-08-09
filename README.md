@@ -5,12 +5,12 @@
   </p> 
 <p align="center">
 <h1 align="center"/>WaterWall Tunnel</h1>
-<h6 align="center"> تانل واتر وال <h6>
+<h6 align="center"> تانل وبسوکت <h6>
 </p>
 
 ## پیش نیاز
 
-اوبنتو 20 و بالاتر
+اوبنتو 20 و بالاتر-دبیان-فدورا
 
 
 ## نصب
@@ -19,11 +19,11 @@
 
 
 
-### mux (http2 , mux , grpc)
+### websocket tunnel (reverse or direct)
 
 
 ```
-bash <(curl https://raw.githubusercontent.com/ipmartnetwork/iPmart/main/mux.sh)
+bash <(curl https://raw.githubusercontent.com/69learn/wstunnel/main/wstunnel.sh)
 
 ```
 
