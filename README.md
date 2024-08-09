@@ -32,7 +32,7 @@ bash <(curl https://raw.githubusercontent.com/69learn/wstunnel/main/wstunnel.sh)
 
 ---
 
-[لینک اصلی پروژه](https://github.com/radkesvat/WaterWall)
+[لینک اصلی پروژه](https://github.com/erebe/wstunnel)
 ---
 
 
